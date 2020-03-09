@@ -1,0 +1,19 @@
+{
+"name" : "fogwave",
+"version" : "4.0",
+"author" : "G Webster Latimer - thefogandwave.com",
+"private" : true,
+
+"devDependencies" : {
+    "grunt" :                       "*",
+    "grunt-contrib-cssmin":         "*",
+    "grunt-contrib-sass":           "*",
+    "grunt-contrib-uglify":         "*",
+    "grunt-contrib-watch":          "*",
+    "grunt-cssc":                   "*",
+    "matchdep":                     "*"
+    },
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
