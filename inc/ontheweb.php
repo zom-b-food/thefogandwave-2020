@@ -7,10 +7,9 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="border-box">
                         <a href="http://www.adam-marsh.com" target="_blank">
-                            <img class="web img-responsive" src="/resources/img/adam-marsh.jpg" alt="clients">
+                            <img class="web img-responsive" src="/resources/img/ip.jpg" alt="clients">
                         </a>
-                        <p class="text-center"><a href="http://www.adam-marsh.com"
-                                target="_blank">www.adam-marsh.com</a>
+                        <p class="text-center"><a href="http://www.gwlatimer.com" target="_blank">www.gwlatimer.com</a>
                         </p>
                     </div>
                     <!-- /.border-box -->
